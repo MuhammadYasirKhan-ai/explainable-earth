@@ -10,7 +10,7 @@ Explainable trend detection on NASA GISS surface temperature data. The app answe
 3. **Who drives it?** The global trend is split *exactly* into area-weighted latitude-band contributions, showing that the
    Arctic (64N-90N) warms about 3.5x faster than the global average while covering about 5% of Earth's surface.
 
-**Live demo:** [add your https://....streamlit.app link here]  |  **Deploy guide:** see `DEPLOY.md`
+**Live demo:** [https://explainable-earth.streamlit.app/]  |  **Deploy guide:** see `DEPLOY.md`
 
 ## NASA data
 
