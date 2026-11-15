@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: explainable-earth
+Version: 1.0.0
+Summary: Explainable trend detection on NASA GISTEMP surface temperature data
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.1
+Requires-Dist: scipy>=1.11
+Requires-Dist: streamlit>=1.35
+Requires-Dist: plotly>=5.20
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+Requires-Dist: pytest-cov>=5; extra == "dev"
+Requires-Dist: hypothesis>=6; extra == "dev"
+Requires-Dist: mypy>=1.10; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: pandas-stubs; extra == "dev"
+Dynamic: license-file
